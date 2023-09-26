@@ -1,4 +1,11 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace GidDesk
@@ -15,5 +22,6 @@ namespace GidDesk
             var f = new Form2();
             f.Show();
         }
+
     }
 }
